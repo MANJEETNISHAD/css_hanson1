@@ -1,0 +1,50 @@
+#p1{
+color:red;
+font-size:40px;
+}
+#p2{
+    color:red;
+    font-style:italic;
+    font-size:30px ;
+}
+#p3{
+color:brown ;
+font-size:25px ;
+line-height:1.5cm;
+
+}
+#p4{
+    text-decoration:underline;
+}
+.c1{
+    background-color:yellow ;
+}
+.c2{
+    text-decoration:line-through;
+}
+.c3{
+color:red ;
+font-style:italic;
+
+}
+.c4{
+color:brown ;
+letter-spacing:6px;
+font-size:20px;
+line-height:0.8cm;
+
+}
+.c5{
+font-weight:bold ;
+background-color:yellow;
+}
+.c7{
+    color: red;
+    background-color: yellow;
+    font-style:italic ;
+    font-size: 25px;
+}
+.c6{
+    color: #7B3F00;
+    font-size:20px ;
+}
